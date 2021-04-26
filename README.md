@@ -18,3 +18,9 @@ Imágenes en sitios externos
 Imágenes en el mismo sitio
 
 ![ ](Rlogo.png)
+
+
+Lista numerada
+1. Primer Elemento
+2. Segundo Elemento
+3. Tercer Elemento
