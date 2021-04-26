@@ -21,6 +21,6 @@ Imágenes en el mismo sitio
 
 
 Lista numerada
-1. Primer Elemento
-2. Segundo Elemento
-3. Tercer Elemento
+1.  Primer Elemento
+2.  Segundo Elemento
+3.  Tercer Elemento
