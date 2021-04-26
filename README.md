@@ -17,4 +17,4 @@ Imágenes en sitios externos
 
 Imágenes en el mismo sitio
 
->[ ](Rlogo.png)
+![ ](Rlogo.png)
