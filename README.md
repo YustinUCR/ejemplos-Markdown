@@ -12,4 +12,7 @@ Miguel de cervantes (1605)
 
 [Enlace al sitio web de la UCR](https://www.ucr.ac.cr/)
 
+Imágenes en sitios externos
 ![ ](https://www.r-project.org/logo/Rlogo.png)
+
+Imágenes en el mismo sitio
