@@ -26,6 +26,6 @@ Lista numerada
 3.  Tercer Elemento
 
 Lista no numerada
--primer
--segundo
--tercer
+- primer
+- segundo
+- tercer
